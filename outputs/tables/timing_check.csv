@@ -1,0 +1,4 @@
+pair,daily_same_day,Nifty(t) with KOSPI(t+1),KOSPI(t) with Nifty(t+1),weekly,Nifty(t) with HSI(t+1),HSI(t) with Nifty(t+1),KOSPI(t) with HSI(t+1),HSI(t) with KOSPI(t+1)
+Nifty-KOSPI,0.4316,0.0940,0.0340,0.5426,,,,
+Nifty-HSI,0.5374,,,0.5668,0.0706,0.0267,,
+KOSPI-HSI,0.5446,,,0.5758,,,0.0163,0.0501

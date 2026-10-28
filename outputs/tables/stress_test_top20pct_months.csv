@@ -1,0 +1,4 @@
+pair,normal_months,stress_months,difference,t_stat_HAC,p_value,n_stress_months,n_months
+Nifty-KOSPI,0.3932,0.4728,0.0796,4.6073,0.0000,46,228
+Nifty-HSI,0.4268,0.5405,0.1137,4.8733,0.0000,46,228
+KOSPI-HSI,0.5635,0.6295,0.0660,2.6876,0.0072,46,228
